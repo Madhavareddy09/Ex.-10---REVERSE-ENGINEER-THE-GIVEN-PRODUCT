@@ -16,6 +16,7 @@
 ![autodesk desk organizer](https://github.com/Madhavareddy09/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145742470/4052ed14-39d8-4444-bef8-cba02519f7ae)
 
 ### Step 3.:- Save the file and export as .stl
+![stl desk organizer](https://github.com/Madhavareddy09/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145742470/f4cac663-fe05-4cae-8ce2-496371b1bb69)
 
 ### Step 4.:- Check all Electrical connections in the 3D printer.
 ### Step 5.:- First we install the software related the 3D printer (idea maker, ultimaker etc.)In idea maker first open the software and click the open file option.
